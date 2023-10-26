@@ -73,5 +73,3 @@ To run tests, use the following commands in the respective directories:
 ## Deployment
 
 Follow best practices for deploying Next.js and Node.js applications to a production environment. Make sure to configure the necessary environment variables.
-
-Feel free to contribute to this project. Please read the CONTRIBUTING.md file for details on the code of conduct and the process for submitting pull requests.
