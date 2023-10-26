@@ -42,21 +42,6 @@ The project is organized into two main directories:
 - client: Contains the Next.js frontend.
 - server: Contains the Node.js backend.
 
-Here's a simplified view of the project structure:
-
-your-project/
-  ├── client/
-  │   ├── pages/
-  │   ├── components/
-  │   ├── ...
-  │
-  ├── server/
-  │   ├── controllers/
-  │   ├── models/
-  │   ├── routes/
-  │   ├── ...
-  │
-  ...
 
 ## Configuration
 
