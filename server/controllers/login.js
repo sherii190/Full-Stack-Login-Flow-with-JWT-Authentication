@@ -31,4 +31,3 @@ module.exports = async (req, res) => {
     res.status(400).json({ message: "Username or Password incorrect" });
   }
 };
-
